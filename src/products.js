@@ -1,51 +1,51 @@
 export const products = [
     {
         id : 1,
-        prodName : '',
-        prodImage : '',
-        prodPrice : 1200,
+        prodName : 'Nike Mens Air Max 97 White Sneaker',
+        prodImage : ['https://i.postimg.cc/5t4dDdvz/1stShoe.png','https://i.postimg.cc/J4C1KFTN/2ndShoe.png','https://i.postimg.cc/sXWkhjCt/3rdShoe.png'],
+        prodPrice : 2409,
         sizes : [3 , 4 , 5, 6 , 7 , 8 , 9],
-        brand : ''
+        brand : 'Nike'
     },
     {
         id : 2,
-        prodName : '',
-        prodImage : '',
-        prodPrice : 1300,
+        prodName : 'adidas Originals Mens Mono Black Ozelle Sneaker',
+        prodImage : ['https://i.postimg.cc/Y06v2L20/ozelle1.png','https://i.postimg.cc/5ysMmfnp/ozelle2.png','https://i.postimg.cc/02NvyJy4/ozelle3.png','https://i.postimg.cc/mgF0P3fm/ozelle4.png'],
+        prodPrice : 1269,
         sizes : [3 , 4 , 5, 6 , 7 , 8 , 9],
-        brand : ''
+        brand : 'Adidas'
     },
     {
         id : 3,
-        prodName : '',
-        prodImage : '',
-        prodPrice : 1300,
+        prodName : 'Nike Dunk High Mens Tan/White Sneaker',
+        prodImage : ['https://i.postimg.cc/HnF1N617/Dunk1.png','https://i.postimg.cc/zfqZ4L6p/Dunk2.png','https://i.postimg.cc/dVjt7KKH/Dunk3.png'],
+        prodPrice : 2399,
         sizes : [3 , 4 , 5, 6 , 7 , 8 , 9],
-        brand : ''
+        brand : 'Nike'
     },
     {
         id : 4,
-        prodName : '',
-        prodImage : '',
-        prodPrice : 1300,
+        prodName : 'adidas Originals Mens NMD White Sneaker',
+        prodImage : ['https://i.postimg.cc/GttqDRNk/Adidas1.png','https://i.postimg.cc/wTS01Skm/Adidas2.png','https://i.postimg.cc/T3tjrFV0/Adidas3.png'],
+        prodPrice : 2099,
         sizes : [3 , 4 , 5, 6 , 7 , 8 , 9],
-        brand : ''
+        brand : 'Adidas'
     },
     {
         id : 5,
-        prodName : '',
-        prodImage : '',
-        prodPrice : 1300,
+        prodName : 'New Balance 9060 Womens Grey Sneaker',
+        prodImage : ['https://i.postimg.cc/hGrGzRV4/NB1.png','https://i.postimg.cc/gJV1kGh4/NB2.png','https://i.postimg.cc/V68Hh2ht/NB3.png','https://i.postimg.cc/xdJcZ4m9/NB4.png'],
+        prodPrice : 2799,
         sizes : [3 , 4 , 5, 6 , 7 , 8 , 9],
-        brand : ''
+        brand : 'New Balance'
     },
     {
         id : 6,
-        prodName : '',
-        prodImage : '',
-        prodPrice : 1300,
+        prodName : 'Nike Mens Air Force 1 07 White/White/University Blue Sneaker',
+        prodImage : ['https://i.postimg.cc/9fWLtywP/NikeAF1.png','https://i.postimg.cc/fRMP5G60/NikeAF2.png','https://i.postimg.cc/vZmz4bJX/NikeAF3.png','https://i.postimg.cc/Xv17ncwQ/NikeAF4.png'],
+        prodPrice : 2299,
         sizes : [3 , 4 , 5, 6 , 7 , 8 , 9],
-        brand : ''
+        brand : 'Nike'
     },
     {
         id : 7,

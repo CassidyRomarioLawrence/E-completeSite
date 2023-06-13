@@ -30,6 +30,9 @@
         </div>
       </div>
     </section>
+    <section id="new-releases">
+
+    </section>
 </template>
 
 <script>
